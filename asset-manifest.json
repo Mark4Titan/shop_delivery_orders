@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shop_delivery_orders/static/css/main.4b165e7e.css",
+    "main.js": "/shop_delivery_orders/static/js/main.3853beb3.js",
+    "static/js/787.27754a3d.chunk.js": "/shop_delivery_orders/static/js/787.27754a3d.chunk.js",
+    "static/media/promo2.jpg": "/shop_delivery_orders/static/media/promo2.34b6065049d71fc80bb8.jpg",
+    "static/media/promo1.jpg": "/shop_delivery_orders/static/media/promo1.50cdf0495c5b2efdd5e0.jpg",
+    "static/media/promo3.jpg": "/shop_delivery_orders/static/media/promo3.58046b6cf1d413838815.jpg",
+    "static/media/logo.png": "/shop_delivery_orders/static/media/logo.563ef28ccb2f9d5a95d7.png",
+    "static/media/p24.webp": "/shop_delivery_orders/static/media/p24.9cc15209dd3cf2b407e7.webp",
+    "static/media/gpay.webp": "/shop_delivery_orders/static/media/gpay.9f880efad43a96d4bc8d.webp",
+    "static/media/visa.svg": "/shop_delivery_orders/static/media/visa.5761de5f3a8c4910ad3d6823bac9bb0b.svg",
+    "static/media/delivery-logo.webp": "/shop_delivery_orders/static/media/delivery-logo.3d393efe0d5ab1cb0cf2.webp",
+    "index.html": "/shop_delivery_orders/index.html",
+    "static/media/Pay.svg": "/shop_delivery_orders/static/media/Pay.8998395fa68853c02d3f80fa2bc48450.svg",
+    "main.4b165e7e.css.map": "/shop_delivery_orders/static/css/main.4b165e7e.css.map",
+    "main.3853beb3.js.map": "/shop_delivery_orders/static/js/main.3853beb3.js.map",
+    "787.27754a3d.chunk.js.map": "/shop_delivery_orders/static/js/787.27754a3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b165e7e.css",
+    "static/js/main.3853beb3.js"
+  ]
+}
